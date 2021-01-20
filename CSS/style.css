@@ -1,0 +1,60 @@
+body{
+  line-height: 1.8;
+ }
+
+#bandera {
+  float: left;
+    }
+#bandera2{
+  float: right
+  }
+.encabezados{
+  text-align: center;
+  font-family: fantasy;
+}
+h1 {
+  margin-bottom: 100px;
+}
+#introduccion{
+  font-family: sans-serif;
+}
+.importante{
+  font-style: italic;
+  color: rgb(240,23,40);
+}
+.resaltar:hover{
+    background-color: yellow;
+  }
+#comida-dominicana{
+  font-family: cursive;
+  font-size: 16px;
+}
+tr, td{
+  border: 1px solid black;
+  font-family: courier;
+  text-align: center;
+  font-weight: bold;
+  }
+
+th{
+  background-color: rgb(218, 197, 198);
+  border:1.5px solid red;
+}
+.foto{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+#introduccion{
+  background: rgb(150,170,230);
+    }
+#comida-dominicana{
+  background: rgb(230,80,30)
+}
+#footer{
+  text-align: center;
+  font-size: 22px;
+  font-family:cursive;
+}
+
